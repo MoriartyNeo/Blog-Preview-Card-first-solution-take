@@ -79,6 +79,11 @@ body {
     margin: 12px 0;
 }
 
+.title:hover {
+    color: #F4D04E;
+    transition: 0.8s;
+}
+
 .box {
     display: flex;
     background-color: #F4D04E;

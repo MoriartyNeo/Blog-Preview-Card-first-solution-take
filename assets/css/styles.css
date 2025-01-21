@@ -49,6 +49,7 @@ body {
     height: 522px;
     margin: 0 auto;
     border-radius: 20px;
+    border: solid 1px #202020;
     background-color: #fff;
     box-shadow: 9px 9px 0px;
 }
